@@ -52,3 +52,11 @@ input{
     width: 305px;
     display: none;
 }
+#quase{    background-color: rgb(247, 247, 0);
+    color: white;
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 20px;
+    width: 305px;
+    display: none;
+}
